@@ -1,0 +1,1 @@
+[25-Nov-2015 11:42:49 UTC] WordPress database error Table 'amn_wrdp37.wp_statistics_historical' doesn't exist for query SHOW COLUMNS FROM wp_statistics_historical LIKE 'key' made by activate_plugin, include_once('/plugins/wp-statistics/wp-statistics.php'), include_once('/plugins/wp-statistics/wps-install.php')
